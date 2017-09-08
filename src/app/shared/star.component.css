@@ -1,0 +1,6 @@
+div.crop {
+    overflow: hidden;
+}
+div {
+    cursor: pointer;
+}
